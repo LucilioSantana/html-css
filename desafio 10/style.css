@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+Body{
+    background-color: rgb(194, 239, 47);
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+header{
+    background-color: darkgreen;
+}

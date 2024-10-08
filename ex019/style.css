@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+body{
+
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Times New 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+
+#principal {
+    text-align: center;
+    background-color: brown;
+    color: white;
+
+}
+
+h1{ 
+    text-align: center;
+    color: red;
+  
+
+
+}
+
+p{
+
+    text-align: justify;
+
+}
+
+.bro {
+    color: rgb(245, 83, 2);
+}

@@ -1,0 +1,11 @@
+
+.h1{
+
+   flex-direction: column;
+
+    background-color:rgb(255, 0, 0);
+    padding: 10px;
+    height: 200px;
+    width: 500px;
+    
+}
