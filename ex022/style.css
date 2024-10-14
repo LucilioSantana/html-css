@@ -1,0 +1,29 @@
+body{
+    background-color: blanchedalmond;
+    background-image: url('imagens/wallpaper001.jpg');
+}
+
+div.quadrada{
+    display: inline-block;
+    border: 2px solid black;
+    width:250px;
+    height: 250px;
+    border-radius: 20px;
+   
+}
+
+#q1{
+    
+}
+
+#q2{
+    background-image: url('imagens/pattern003.png');
+}
+#q3{
+    background-image: url('imagens/pattern004.png');
+}
+
+div:hover{
+
+    background-color: black;
+}
