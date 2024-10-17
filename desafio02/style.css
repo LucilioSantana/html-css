@@ -1,0 +1,97 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+header{
+
+    padding: 60px;
+    text-align: center;
+    height: 150px;
+    font-family:monospace ;
+    color: white;
+    background-color: black;
+}
+
+header h1{
+    font-size: 80px;
+    }
+
+
+    header a{
+
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight:500px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+#div1{
+
+    
+}
+#div2{
+    
+    height: 700px;
+    background-image: url('imagens/background001.jpg');
+    background-position: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#div2 p{
+    padding: 120px 50px;
+    margin-left: 40px;
+    font-size: 50px;
+    
+    color: aliceblue;
+}
+
+#div4 p{
+    padding: 120px 50px;
+    margin-left: 40px;
+    font-size: 50px;
+    
+}
+
+#div4{
+   
+    
+    
+    font-size: 50px;
+    height: 600px;
+    background-image: url('imagens/background002.jpg');
+    background-attachment: fixed;
+    background-position: 100%;
+    background-size: cover;
+}
+
+.dudu{
+    padding: 50px 50px;
+    margin-left: 40px;
+    font-size: 50px;
+
+}
+
+footer{
+    height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+  
+}
+footer a  {
+  
+   text-decoration: underline;
+    color: white;
+}
+
+footer p {
+    padding: 10px;
+}
