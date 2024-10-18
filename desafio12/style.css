@@ -86,7 +86,7 @@ section.imagem{
 {
     background-image: url('imagens/background001.jpg');
     background-size: cover;
-    background-position: right center;
+    background-position: center center;
     background-attachment: fixed;
 }
 
@@ -102,4 +102,5 @@ footer{
     background-color: black;
     text-align: center;
     padding: 10px;
+    
 }
