@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+/*estilo para tela*/
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+html,body{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    line-height: 2em;
+}
+
+header{
+    background-color: bisque;
+}
+
+header h1{
+    text-align: center;
+}
+header li{
+    background-color:rgb(248, 210, 164) ;
+    padding: 2px;
+    margin: 2px;
+    display: inline-block;
+}
+
+article{
+
+   width: 600px;
+   display: block;
+    margin: auto;
+   
+}

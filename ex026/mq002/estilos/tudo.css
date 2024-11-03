@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/*midia para tudo**/
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html,body{
+background:#233eff;
+
+width: 100vw;
+height: 100vh;
+background-size:contain;
+background-repeat: no-repeat;
+
+
+
+
+
+
+
+}
+
+h1{
+    padding: 10px;
+    color: white;
+    font-weight: 700;
+    fon
+}

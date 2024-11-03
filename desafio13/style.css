@@ -51,3 +51,26 @@ main{
     top:80px;
     left:22px;
 }
+
+#rede-sociais {
+    text-align: right;
+   
+}
+
+
+#rede-sociais img{
+    width: 50px;
+    margin: 8px;
+    border-radius: 50%;
+  box-sizing: border-box;
+   
+  
+
+}
+
+#rede-sociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.686);
+    transform: translate(-3px, -3px);
+    transition: 1s;
+}
+
